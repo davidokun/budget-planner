@@ -1,2 +1,3 @@
-# budget-planner
-Budget Planner Mobile app
+# Budget Planner
+
+Simple demo app using Ionic components without JS framework (Angular/React/Vue).
